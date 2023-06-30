@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Background](#background)
-- [Qualitative Result](#qualitative-result)
 - [Install](#install)
 - [Usage](#usage)
 - [Quantitative Result](#quantitative-result)
@@ -38,11 +37,31 @@ year = {2022}
 }
 ```
 
-## Qualitative Result
-
 ## Install
+Please install the latest [Anaconda](https://www.anaconda.com/download/) distribution, you can refer to the following configuration to build your environment:
+```shell
+conda create -n DepthEstimationInFoy python=3.6
+conda install pytorch=0.4.1 torchvision=0.2.1 -c pytorch
+pip install tensorboardX==1.4
+pip install opencv-python
+pip install ipython
+pip install scikit-image
+```
+We ran our experiments with PyTorch 0.4.1, CUDA 10.1, Python 3.6.6 and Windows.
+We have successfully trained models with PyTorch. Adam optimizer is used to train 20 epochs on an RTX 1080Ti GPU. The batch size is set to 6. And learning rate is initially set to le − 4, and after 5
+epochs, it is set to 1e − 5. Seven metrics, Abs-Rel, Sq-Rel, RMSE, RMSE-log, δ1, δ2, and δ3, were used for test.
 
 ## Usage
+
+### - Data
+
+### - Model
+
+### - Prediction for a single image
+
+### - Training
+
+### - Evaluation
 
 ## Quantitative Result
 
