@@ -18,6 +18,9 @@ This is our work for 2022, about the self-supervised monocular depth estimation 
 >
 > [Optical Engineering 2022](https://doi.org/10.1117/1.OE.62.3.031208)
 
+![image](./pictures/Image-of-the-qualitative-result.png)
+![image](./pictures/Image-of-the-network-framework.png)
+
 <p align="center">
   <img src="assets/teaser.gif" alt="example input output gif" width="600" />
 </p>
