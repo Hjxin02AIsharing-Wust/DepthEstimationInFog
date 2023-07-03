@@ -6,7 +6,7 @@
 - [Usage](#usage)
 - [Quantitative Result](#quantitative-result)
 - [Contributing](#contributing)
-- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Background 
 This is our work for 2022, about the self-supervised monocular depth estimation in foggy scenes:
@@ -99,9 +99,22 @@ python train.py --model_name model_name --load_weights_folder path_to_the_pretra
 
 ## Quantitative Result
 
+This is the results of our latest experiments and we are doing further research. 
+
+![image](https://github.com/Hjxin02AIsharing-Wust/DepthEstimationInFoy/blob/main/pictures/Image%20of%20the%20quantitative%20result.png)
+
 ## Contributing
 
-## License
+This project exists thanks to these people who contribute
+
+```shell
+Jiaxin Hu , Bo Tao
+```
+We are doing further research on depth estimation in fog, welcoming to communicate. If your suggestions and work advance this project, we will regard you as one of the contributors.
+
+## Acknowledgements
+
+Our research is based on [Monodepth2](https://arxiv.org/pdf/1806.01260.pdf) and [ADDS-Depth](https://arxiv.org/abs/2108.07628), and we pay a high respect to them.
 
 
 
