@@ -30,7 +30,7 @@ We have provided an implementation based on Pytorch here. **Please note that it 
 
 If you find our work useful in your research, please consider citing our paper:
 ```
-@article{DepthEstimationInFoy,
+@article{DepthEstimationInFog,
   title     = {Self-supervised monocular depth estimation in fog},
   author    = {Bo Tao, Jiaxin Hu, Du Jiang, Gongfa Li, Baojia Chen, Xinbo Qian},
   booktitle = {Optical Engineering (Opt.Eng)},
