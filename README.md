@@ -82,7 +82,7 @@ python scripts/test_simple.py --image_path path_to_the_single_image --model_name
 
 ### - Training
 
-Some default parameters are set in the file `scripts/options.py`, such as the default models and tensorboard event files saved to '~/tmp', and the batchsize is set to 4. You can modify these parameters before training. 
+Some default parameters are set in the file `scripts/options.py`, such as the default models and tensorboard event files saved to `~/tmp`, and the batchsize is set to 4. You can modify these parameters before training. 
 
 **Training:**
 ```shell
