@@ -1,4 +1,4 @@
-# DepthEstimationInFoy
+# DepthEstimationInFog
 
 ## Table of Contents
 - [Background](#background)
