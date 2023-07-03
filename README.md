@@ -66,9 +66,9 @@ We will release these datasets publicly soon.
 
 ### - Model
 
-We provide pre-trained models, you can download it here, and use your own datasets or the datasets provided by us to make better adjustments, which may achieve better results. 
+We provide pre-trained models, you can download it [here](https://drive.google.com/drive/folders/1s25gq8GHyzBqF3Rgn5mdH2a08jvJWoGa), and use your own datasets or the datasets provided by us to make better adjustments, which may achieve better results. 
 
-You can also download the model weights that we have trained for testing. 
+You can also download [the model weights](https://drive.google.com/drive/folders/1GVJvy63zlJdbk0P48gQ2WUR_Dv32h_0p) that we have trained for testing. 
 
 
 
