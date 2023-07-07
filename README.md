@@ -26,7 +26,7 @@ This is our work for 2022, about the self-supervised monocular depth estimation 
 ![image](https://github.com/Hjxin02AIsharing-Wust/DepthEstimationInFoy/blob/f390f8785f82dbe00a14efad2010c025e29bf123/pictures/Image%20of%20the%20network%20framework.png)
 
 
-We have provided an implementation based on Pytorch here. **Please note that it is only used to communicate with scholars in this field and record our own learning results**.
+We have provided an implementation based on Pytorch here，this is our [blog](https://www.cnblogs.com/Hjxin02AIsharing-Wust/p/17534865.html) about some understanding of the paper. **Please note that it is only used to communicate with scholars in this field and record our own learning results**.
 
 If you find our work useful in your research, please consider citing our paper:
 ```
